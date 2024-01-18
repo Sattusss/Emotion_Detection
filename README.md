@@ -1,4 +1,5 @@
 Emotion Detection Project
+
 Overview
 This project focuses on emotion detection using machine learning techniques. The goal is to develop a model that can accurately identify and classify emotions based on a given dataset.
 
